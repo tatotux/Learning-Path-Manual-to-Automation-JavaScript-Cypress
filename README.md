@@ -1,4 +1,4 @@
-# Learning-Path-Manual-to-Automation-JavaScript-Cypress
+# Learning Path Manual to Automation JavaScript Cypress
 
 ## Test Automation Stack:
 ### Fundamentals + JavaScript + Cypress
