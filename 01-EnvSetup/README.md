@@ -45,13 +45,13 @@ Install homebrew: <https://brew.sh> . As a by-product, this will also automatic
 
 Install nvm and node version 16.13.1. nvm is a tool that lets you manage multiple node versions on your machine at the same time.  Do not install node directly from the node website.
 
-    ```bash
+```bash
 
 brew install nvm
 brew info nvm
 nvm install 16.13.1
 
-    ```
+```
 
 ### Step Verification
 
